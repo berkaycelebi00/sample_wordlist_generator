@@ -1,5 +1,5 @@
-# sample_wordlist_generator
-A sample wordlist genrator written in C++
+# simple_wordlist_generator
+A simple wordlist genrator written in C++
 
 To run the program you must add -l <length_of_letters> paramater at the end of execution command on terminal.
 
